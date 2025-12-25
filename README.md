@@ -192,5 +192,6 @@ pizza.html
 <img width="1838" height="1095" alt="393502285-b4fb06ea-fb5c-4015-b4cd-6004d996527f" src="https://github.com/user-attachments/assets/d63c625f-cefc-4a9c-a106-3e52d878b579" />
 <img width="1798" height="1023" alt="392504616-0d0627f4-89f5-494a-9ae4-4b329679a728" src="https://github.com/user-attachments/assets/4244f4e0-c557-4f36-8842-8d2357587d6e" />
 <img width="1783" height="1015" alt="392504810-d2e38521-2462-408a-938a-831c66fa644a" src="https://github.com/user-attachments/assets/94453b08-76dc-4023-987c-ce72858d85fa" />
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.

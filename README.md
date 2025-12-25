@@ -23,6 +23,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+map.html
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -181,6 +183,8 @@ pizza.html
             </table>
     </body>
 </html>
+
+
 # OUTPUT
 <img width="1920" height="1200" alt="392504288-8b46d874-08a7-4fab-a899-4ddfa409e1b2" src="https://github.com/user-attachments/assets/41152c2f-5e65-461b-8f2c-ce4049e35e4b" />
 <img width="1838" height="1095" alt="393502285-b4fb06ea-fb5c-4015-b4cd-6004d996527f" src="https://github.com/user-attachments/assets/d63c625f-cefc-4a9c-a106-3e52d878b579" />
